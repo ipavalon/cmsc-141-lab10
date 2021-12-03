@@ -1,2 +1,1 @@
-# cmsc-141-lab10
-p5.js example
+Simple example of the p5.3D library.
